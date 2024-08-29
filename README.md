@@ -1,4 +1,4 @@
-# Iskender-101
+# Iskender-101 [^1]
 
 ## Neden
 
@@ -8,7 +8,7 @@ tecrubelerime gore yazdim cunku. Ama yine de baska bir mekan varsa ya da varolan
 
 ## Mekanlar
 
-Asagidaki mekanlarin hepsi en az 8/10 luk iskender yapar. Damak zevki tabii ki ama tadini begenmeden kalkmaniz cok zor
+Asagidaki mekanlarin hepsi en az 8/10 luk iskender[^1] yapar. Damak zevki tabii ki ama tadini begenmeden kalkmaniz cok zor
 herhangi birinden. Aralarindaki lezzet farki %10-15 falandir max. Ama baska kriterler var tabii ki secim yapmak icin.
 Buyrun:
 
@@ -23,7 +23,7 @@ Buyrun:
 
    - Ben daha once Bursa'ya geldim ve gercek yerinde iskender yedim. Alternatiflere acigim.
    - Daha once bursa'ya gelmedim ama nerede yedigim de cok onemli degil; sadece guzel bir iskender yemek istiyorum.
-   - 10/10 iskender yiyip 5/10 esnaflikla karsilanmak istemiyorum. iskender 8/10 olsun ama esnaflik da en az 8/10 olsun.[^1]
+   - 10/10 iskender yiyip 5/10 esnaflikla karsilanmak istemiyorum. iskender 8/10 olsun ama esnaflik da en az 8/10 olsun.[^2]
    - Tamam iskender yiyecegiz ama fiyatlar da biraz makul olsun. Sirf orijinal yerinden yiyecegim diye cebim yanmasin.
 
    Yukaridakilerden birisi sizin gecerliyle alternatif bir mekan daha var: [Ulu Hunkar](https://maps.app.goo.gl/iEWLSC6XpzVXvE4b9)
@@ -42,7 +42,8 @@ Buyrun:
   Camii'yi bir gorelim vs diyorsaniz iki seceneginiz var: `1` ve `4`. Ikisi de carsinin icinde. Her yere yurume
   mesafesinde.
 
-[^1]:
+[^1]: "İSKENDER" Esas Unsuru, ortaklık ilişkisi içinde ( aile şirketi ) aile fertlerinin oluşturduğu Kebapçı İskender Turz.ve Gıda San. Tic. İht.İhc.A.Ş‘nin VURGULAYICI UNSURU dur. Detayli bilgi: https://iskender.com.tr/iskender-esas-unsuru.html
+[^2]:
     `Diger mekanlarin esnafliklari kotu` anlami cikmasin buradan. Ama cok yogun olduklari icin; garson beni sevsin,
     ilgi gostersin, halimi hatrimi sorun vs noktasinda beklentinizi karislamayabilirler. Siz orada yemeginizi yerken
     disarida 100 kisilik bi kitle var sizi bekleyen.

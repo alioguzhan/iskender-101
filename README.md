@@ -45,6 +45,6 @@ Buyrun:
 [^1]: "İSKENDER" Esas Unsuru, ortaklık ilişkisi içinde ( aile şirketi ) aile fertlerinin oluşturduğu Kebapçı İskender Turz.ve Gıda San. Tic. İht.İhc.A.Ş‘nin VURGULAYICI UNSURU dur. Detayli bilgi: https://iskender.com.tr/iskender-esas-unsuru.html
 [^2]:
     `Diger mekanlarin esnafliklari kotu` anlami cikmasin buradan. Ama cok yogun olduklari icin; garson beni sevsin,
-    ilgi gostersin, halimi hatrimi sorun vs noktasinda beklentinizi karislamayabilirler. Siz orada yemeginizi yerken
+    ilgi gostersin, halimi hatrimi sorun vs noktasinda beklentinizi karsilamayabilirler. Siz orada yemeginizi yerken
     disarida 100 kisilik bi kitle var sizi bekleyen.
 

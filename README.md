@@ -34,8 +34,8 @@ Buyrun:
 - Ben bir Vedat Milor hayraniyim; komodo ejderi yiyin dese soyle bi catalin ucuyla tadina bakarim diyorsaniz `3` numarali mekan.
   Gercekten guzeldir ama kucuk ve sira olacak orada da.
 - `1` ve `3` numarali mekanlarda, hele de haftasonu giderseniz, cok sira beklersiniz. Onden belirteyim bunu.
-- Ben dah once geldim ya da yine gelirim cok muhim degil; bu sicakta da sira beklemek istemiyorum derseniz `2` ve `4` numarali
-  mekanlar ideal.[^1]
+- Ben dah once geldim ya da yine gelirim cok muhim degil; bu sicakta / sogukta da sira beklemek istemiyorum derseniz `2` ve `4` numarali
+  mekanlar ideal.
 - Ya cok buyutmeyin olayi, sira falan beklemek istemiyorum, olayi sahne showuna cevirmeden sakince iskenderimi yiyip
   sehri terkedecegim: `5` numarali mekan.
 - Butun bunlarin disinda; eger iskender'den sonra tarihi bursayi da bir gezelim soyle, Koza Han'dan ipek alalim. Ulu

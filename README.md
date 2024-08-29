@@ -1,5 +1,7 @@
 # Iskender-101 [^1]
 
+You can find the English version of this guide [here](README.en.md).
+
 ## Neden
 
 Yillardir surekli gelen bir soru bana. Her seferinde benzer seyleri soyluyordum ese dosta. Dedim bunu bi yere yazayim
